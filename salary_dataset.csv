@@ -1,0 +1,1001 @@
+Skill,Experience,Salary
+C++,13.9,25.91
+React,12.5,24.15
+C++,1.2,9.91
+JavaScript,3.3,9.87
+Flask,12.1,20.27
+Data Analysis,6.1,14.94
+Java,9.2,17.14
+JavaScript,10.6,17.09
+React,4.4,13.94
+C++,7.6,17.98
+SQL,8.7,13.83
+Computer Vision,6.5,22.51
+Computer Vision,4.5,19.09
+DevOps,2.5,14.03
+Java,14.3,22.64
+Python,12.3,20.48
+SQL,3.2,8.88
+DevOps,12.9,29.94
+Python,9.7,17.68
+JavaScript,6.5,13.04
+Flask,9.5,17.46
+Flask,11,19.08
+Python,5,12.6
+Node.js,9.6,19.03
+Django,3.5,11.89
+SQL,2.2,7.98
+Deep Learning,10.9,28.46
+DevOps,3.2,15.1
+Machine Learning,2.9,13.78
+JavaScript,9,15.51
+Data Analysis,10.7,20.32
+Angular,13.2,23.24
+DevOps,11.1,27.18
+Angular,9.9,19.38
+SQL,10,15
+React,7.6,17.98
+Node.js,5.5,14.23
+SQL,14.1,18.69
+JavaScript,1.6,8.18
+Java,1.2,8.5
+JavaScript,1.2,7.79
+Deep Learning,5.5,19.71
+Data Analysis,9.4,18.8
+AWS,4.6,16.22
+Angular,6.6,15.52
+React,9.2,19.99
+Data Analysis,6.8,15.76
+NLP,3,15.66
+Python,7.2,14.98
+React,4.9,14.57
+React,14.3,26.42
+JavaScript,1.8,8.38
+Computer Vision,4.8,19.61
+Data Analysis,11.7,21.49
+SQL,7.4,12.66
+Django,4.3,12.83
+Node.js,5.1,13.77
+Data Analysis,9.6,19.03
+Big Data,0.1,10.35
+JavaScript,10.7,17.19
+Node.js,5.5,14.23
+Data Analysis,2.4,10.61
+Django,8.7,17.98
+SQL,8.1,13.29
+Python,0.1,7.31
+Computer Vision,12.4,32.6
+Computer Vision,3.9,18.07
+Machine Learning,4.5,16.08
+AWS,0.7,10.61
+React,12.2,23.77
+C++,7.5,17.85
+SQL,3.9,9.51
+Big Data,3.3,15.25
+Data Analysis,0.1,7.92
+JavaScript,10,16.5
+SQL,1.6,7.44
+Computer Vision,13.2,33.97
+Machine Learning,5.5,17.52
+Deep Learning,5.6,19.87
+SQL,6.6,11.94
+Big Data,8.1,22.59
+React,2.3,11.3
+Angular,14.2,24.41
+Django,8.8,18.1
+Node.js,8.9,18.21
+Django,1,8.97
+Big Data,7.3,21.37
+Python,11.9,20.05
+Python,14.3,22.64
+Angular,3.8,12.25
+React,9.4,20.24
+Big Data,2.9,14.64
+Deep Learning,2.1,14.2
+Data Analysis,6.2,15.05
+JavaScript,13.8,20.26
+C++,0.3,8.78
+React,4.4,13.94
+JavaScript,0.5,7.09
+NLP,4.4,17.93
+NLP,4.7,18.41
+Machine Learning,2.8,13.63
+React,1.5,10.29
+Django,7.5,16.57
+Machine Learning,0.2,9.89
+NLP,4.3,17.77
+NLP,5.9,20.36
+Flask,5.2,12.82
+Computer Vision,7,23.37
+Node.js,8.6,17.86
+React,7.9,18.35
+JavaScript,4.1,10.66
+JavaScript,2.5,9.07
+Django,2,10.14
+Deep Learning,4,17.28
+Deep Learning,12.4,30.89
+Data Analysis,1.9,10.02
+Data Analysis,10.7,20.32
+Django,6.9,15.87
+Computer Vision,12.8,33.29
+NLP,13,31.86
+NLP,8.9,25.22
+Machine Learning,10.1,24.14
+Big Data,5.7,18.92
+NLP,13.5,32.67
+React,2.1,11.05
+Machine Learning,5.9,18.1
+Computer Vision,3.1,16.7
+Node.js,5.9,14.7
+Node.js,13.5,23.59
+C++,4.6,14.2
+JavaScript,14.8,21.25
+DevOps,1.1,11.88
+DevOps,1.7,12.8
+Python,3.9,11.41
+Deep Learning,7.6,23.11
+Node.js,10.6,20.2
+Data Analysis,12.8,22.78
+JavaScript,4.5,11.05
+Django,1.2,9.2
+Flask,8.6,16.49
+Big Data,2.5,14.03
+NLP,2.5,14.85
+Big Data,11.8,28.25
+Flask,3.4,10.87
+Machine Learning,0.1,9.74
+Python,13.5,21.78
+Python,9.6,17.57
+Angular,7.9,17.04
+SQL,7.9,13.11
+Flask,7.6,15.41
+Django,4.5,13.06
+Big Data,13,30.09
+Flask,10,18
+Data Analysis,13.6,23.71
+Node.js,5.2,13.88
+Angular,14,24.18
+NLP,12.3,30.73
+Python,5.8,13.46
+C++,5.8,15.71
+AWS,14.7,30.77
+Computer Vision,11.1,30.38
+Data Analysis,0.8,8.74
+C++,2.9,12.05
+Machine Learning,12.5,27.6
+Python,4.9,12.49
+Django,6.5,15.4
+DevOps,9.6,24.89
+Data Analysis,5,13.65
+DevOps,6.6,20.3
+NLP,8.2,24.08
+React,1.3,10.04
+JavaScript,3.2,9.77
+Java,2.5,9.9
+Data Analysis,1.2,9.2
+Node.js,5.2,13.88
+Data Analysis,12.6,22.54
+Angular,1.6,9.67
+Computer Vision,6.8,23.03
+React,5.3,15.08
+NLP,7.6,23.11
+C++,8.6,19.24
+NLP,10.6,27.97
+Java,5.1,12.71
+C++,11.8,23.27
+SQL,7,12.3
+Django,15,25.35
+Machine Learning,3.6,14.78
+Flask,6.8,14.54
+Python,2.9,10.33
+SQL,14.6,19.14
+Computer Vision,9.8,28.16
+Django,1.1,9.09
+Computer Vision,10.4,29.18
+Node.js,13.8,23.95
+Big Data,12.8,29.78
+AWS,9.2,22.85
+Deep Learning,3.1,15.82
+Flask,12.2,20.38
+NLP,13.2,32.18
+NLP,12.3,30.73
+React,6.2,16.21
+C++,6.2,16.21
+Java,2.1,9.47
+Big Data,8.9,23.82
+NLP,6.5,21.33
+Machine Learning,4.1,15.5
+Deep Learning,2.7,15.17
+Big Data,10.8,26.72
+React,12.4,24.02
+Data Analysis,3.2,11.54
+Data Analysis,3.8,12.25
+React,6.3,16.34
+Flask,2.4,9.79
+Node.js,9.7,19.15
+Django,4.6,13.18
+Python,10.8,18.86
+React,1.3,10.04
+Computer Vision,0.4,12.08
+C++,11.7,23.14
+NLP,1.7,13.55
+C++,13.2,25.03
+Computer Vision,12.1,32.09
+C++,0.5,9.03
+JavaScript,2.9,9.47
+AWS,12.6,27.74
+Deep Learning,5.8,20.2
+Django,5,13.65
+JavaScript,13,19.47
+JavaScript,0.5,7.09
+Machine Learning,0.1,9.74
+Computer Vision,9.3,27.3
+SQL,11.2,16.08
+Python,13.8,22.1
+Python,12,20.16
+SQL,11.4,16.26
+NLP,10,27
+Computer Vision,12.4,32.6
+AWS,12.7,27.89
+Python,9.1,17.03
+Flask,1.2,8.5
+Computer Vision,11.3,30.72
+C++,13,24.78
+Computer Vision,3.1,16.7
+C++,3.9,13.31
+AWS,0.8,10.75
+Big Data,14.1,31.77
+C++,11.2,22.51
+C++,4.3,13.82
+Big Data,11.2,27.34
+Java,2.4,9.79
+Java,7.3,15.08
+AWS,5.7,17.81
+Flask,2,9.36
+Data Analysis,0.9,8.85
+SQL,1.8,7.62
+Deep Learning,12.2,30.56
+Computer Vision,5.4,20.63
+C++,10.2,21.25
+React,6.4,16.46
+React,1,9.66
+Big Data,0.9,11.58
+Python,9.1,17.03
+Python,8,15.84
+Node.js,10.2,19.73
+C++,5.2,14.95
+Big Data,9,23.97
+NLP,12.5,31.05
+Node.js,14.1,24.3
+Node.js,3.8,12.25
+DevOps,12.4,29.17
+Angular,7.8,16.93
+NLP,3.4,16.31
+DevOps,2.5,14.03
+C++,8.1,18.61
+C++,2,10.92
+Java,5.6,13.25
+React,7.5,17.85
+DevOps,7.8,22.13
+C++,6.1,16.09
+DevOps,13,30.09
+Python,2.3,9.68
+Python,14,22.32
+NLP,7.2,22.46
+Python,9.2,17.14
+SQL,4.7,10.23
+SQL,6.4,11.76
+SQL,12.5,17.25
+DevOps,9.2,24.28
+Flask,4.7,12.28
+C++,8.2,18.73
+Big Data,13.6,31.01
+DevOps,13.8,31.31
+Deep Learning,9.3,25.87
+AWS,8.3,21.55
+Django,0.5,8.38
+AWS,5.4,17.38
+Java,0.8,8.06
+AWS,6.3,18.67
+Flask,10.2,18.22
+Java,13.8,22.1
+JavaScript,14,20.46
+Machine Learning,0.2,9.89
+JavaScript,6.3,12.84
+Node.js,4.3,12.83
+NLP,4.5,18.09
+Machine Learning,4.8,16.51
+Big Data,7.5,21.68
+Python,12.8,21.02
+Deep Learning,7.7,23.27
+DevOps,13.8,31.31
+AWS,14,29.76
+JavaScript,6.1,12.64
+Deep Learning,9.3,25.87
+Django,10.4,19.97
+SQL,3.9,9.51
+NLP,5,18.9
+AWS,4.3,15.79
+Computer Vision,13.5,34.48
+JavaScript,0.3,6.9
+DevOps,8.1,22.59
+DevOps,12.8,29.78
+Flask,6.4,14.11
+JavaScript,3.9,10.46
+Angular,1.8,9.91
+Machine Learning,8.5,21.84
+SQL,14.1,18.69
+Deep Learning,5.5,19.71
+Data Analysis,14.3,24.53
+SQL,7.5,12.75
+Deep Learning,12.9,31.7
+Java,7.2,14.98
+Django,7.7,16.81
+Computer Vision,4.7,19.44
+React,12.5,24.15
+JavaScript,7.4,13.93
+SQL,14.9,19.41
+Machine Learning,13.7,29.33
+Data Analysis,9.9,19.38
+Flask,9.2,17.14
+Machine Learning,9,22.56
+Django,11.7,21.49
+C++,10.6,21.76
+React,14.6,26.8
+DevOps,8.8,23.66
+SQL,8.9,14.01
+SQL,4.5,10.05
+Angular,1.2,9.2
+Angular,4.6,13.18
+React,13.1,24.91
+JavaScript,12.1,18.58
+SQL,4.2,9.78
+Machine Learning,7.5,20.4
+React,6.6,16.72
+NLP,4.6,18.25
+AWS,2.5,13.2
+Big Data,11,27.03
+Java,0.3,7.52
+Django,13.3,23.36
+SQL,0.4,6.36
+JavaScript,1.3,7.89
+Python,11.1,19.19
+Machine Learning,0.6,10.46
+NLP,12.9,31.7
+React,9.3,20.12
+Big Data,1.6,12.65
+Python,11.2,19.3
+NLP,0.1,10.96
+Node.js,11.8,21.61
+Computer Vision,7.9,24.91
+Python,3,10.44
+Deep Learning,0.2,11.12
+C++,14.8,27.05
+AWS,3.4,14.5
+C++,14.1,26.17
+React,6.4,16.46
+Flask,12.2,20.38
+Django,8.9,18.21
+Big Data,9.2,24.28
+Big Data,5.7,18.92
+Angular,8.6,17.86
+C++,14.4,26.54
+Data Analysis,0.3,8.15
+Data Analysis,14.7,25
+Data Analysis,3.2,11.54
+Python,3.6,11.09
+Django,1,8.97
+Java,6.7,14.44
+SQL,14.2,18.78
+Data Analysis,12.3,22.19
+Deep Learning,4.1,17.44
+C++,2.2,11.17
+Django,8,17.16
+Big Data,8.8,23.66
+NLP,0.3,11.29
+Big Data,9.3,24.43
+React,9,19.74
+Computer Vision,10.6,29.53
+Computer Vision,11.6,31.24
+Data Analysis,7.3,16.34
+Machine Learning,10.9,25.3
+AWS,4.4,15.94
+NLP,2.1,14.2
+Angular,1.1,9.09
+Machine Learning,4.5,16.08
+React,11.3,22.64
+DevOps,13.1,30.24
+Deep Learning,13,31.86
+NLP,11.5,29.43
+Node.js,13.8,23.95
+Django,14.4,24.65
+Data Analysis,7.3,16.34
+Python,8.2,16.06
+C++,11.1,22.39
+Django,0.5,8.38
+Big Data,11,27.03
+Machine Learning,13.3,28.75
+Flask,2.8,10.22
+Django,7.7,16.81
+Node.js,7.3,16.34
+React,8.5,19.11
+C++,4.7,14.32
+Big Data,13.9,31.47
+NLP,2.5,14.85
+Django,0.6,8.5
+React,11,22.26
+Deep Learning,2.1,14.2
+Java,4.5,12.06
+Deep Learning,5.9,20.36
+SQL,1.8,7.62
+Deep Learning,5.6,19.87
+Java,8.9,16.81
+Django,0.6,8.5
+Java,8,15.84
+SQL,12.8,17.52
+React,8.9,19.61
+Computer Vision,7,23.37
+NLP,11.9,30.08
+Node.js,13.4,23.48
+SQL,11.5,16.35
+Python,6.3,14
+C++,8,18.48
+Angular,10,19.5
+Java,8.8,16.7
+Java,2.3,9.68
+JavaScript,8.8,15.31
+Data Analysis,13.4,23.48
+NLP,4,17.28
+Flask,12.4,20.59
+SQL,0.2,6.18
+Big Data,14.2,31.93
+Machine Learning,12,26.88
+Flask,11.9,20.05
+Django,5.3,14
+SQL,1.3,7.17
+Computer Vision,4.9,19.78
+Node.js,1.3,9.32
+Angular,11.9,21.72
+Machine Learning,1.7,12.05
+Node.js,14.6,24.88
+Node.js,1.1,9.09
+Django,6.2,15.05
+NLP,9.2,25.7
+Machine Learning,2.8,13.63
+Django,14.5,24.76
+Java,4.3,11.84
+Node.js,14.6,24.88
+Node.js,13.8,23.95
+Django,1.2,9.2
+AWS,10.9,25.3
+NLP,9.8,26.68
+Java,3.7,11.2
+Big Data,0.4,10.81
+React,11.9,23.39
+Flask,1.3,8.6
+Angular,14.9,25.23
+Computer Vision,9.5,27.64
+Deep Learning,11.6,29.59
+Python,1.4,8.71
+Angular,1.4,9.44
+Deep Learning,5.2,19.22
+Node.js,11.8,21.61
+Python,14.4,22.75
+Machine Learning,10.4,24.58
+Big Data,13.6,31.01
+Big Data,1.3,12.19
+Computer Vision,10.1,28.67
+Computer Vision,10.9,30.04
+DevOps,1.9,13.11
+Computer Vision,2.1,14.99
+Django,12.6,22.54
+Deep Learning,2.7,15.17
+Java,6.1,13.79
+Data Analysis,7.4,16.46
+Django,4.9,13.53
+Machine Learning,3.7,14.93
+Java,0.7,7.96
+Python,6.1,13.79
+Deep Learning,2.6,15.01
+Big Data,9.2,24.28
+NLP,13.1,32.02
+Big Data,9.3,24.43
+Python,14.1,22.43
+Angular,5.8,14.59
+DevOps,10.9,26.88
+Django,13.3,23.36
+Computer Vision,1.2,13.45
+NLP,1.1,12.58
+Computer Vision,8.8,26.45
+NLP,14.8,34.78
+Deep Learning,10,27
+Angular,6.4,15.29
+Machine Learning,11.6,26.3
+Angular,2.4,10.61
+NLP,2,14.04
+NLP,2.5,14.85
+Angular,2.1,10.26
+Data Analysis,0.1,7.92
+C++,5.2,14.95
+Flask,4.8,12.38
+Computer Vision,9.1,26.96
+Python,12.8,21.02
+Big Data,5,17.85
+Django,1.6,9.67
+Java,5.5,13.14
+Deep Learning,8.4,24.41
+Angular,3.5,11.89
+Big Data,8.9,23.82
+C++,1.7,10.54
+C++,14.7,26.92
+NLP,4.8,18.58
+C++,14.1,26.17
+JavaScript,6.8,13.33
+C++,12.3,23.9
+Python,1.4,8.71
+Computer Vision,0.3,11.91
+React,14.3,26.42
+Flask,11.6,19.73
+DevOps,10.6,26.42
+Computer Vision,11.7,31.41
+AWS,3,13.92
+DevOps,6.2,19.69
+NLP,3.7,16.79
+Data Analysis,4.8,13.42
+C++,4.3,13.82
+AWS,5.5,17.52
+Computer Vision,9.4,27.47
+SQL,5.2,10.68
+JavaScript,0,6.6
+Computer Vision,4.8,19.61
+DevOps,7.6,21.83
+Deep Learning,9.8,26.68
+AWS,10.2,24.29
+Flask,4.5,12.06
+C++,7,17.22
+C++,13.1,24.91
+Machine Learning,6.7,19.25
+Computer Vision,11.1,30.38
+Django,7.3,16.34
+Flask,0.4,7.63
+DevOps,11.5,27.79
+Flask,11.1,19.19
+Python,14.3,22.64
+JavaScript,4,10.56
+Big Data,12.3,29.02
+C++,9.6,20.5
+Angular,11.4,21.14
+C++,11,22.26
+Angular,13.8,23.95
+JavaScript,7.1,13.63
+DevOps,0.2,10.51
+C++,0,8.4
+SQL,2.4,8.16
+Java,3.8,11.3
+Data Analysis,4.2,12.71
+Java,2.7,10.12
+JavaScript,0.4,7
+Node.js,11.7,21.49
+Java,0.2,7.42
+AWS,3.1,14.06
+C++,9.2,19.99
+C++,9.9,20.87
+Node.js,5.8,14.59
+Java,12.1,20.27
+React,2.3,11.3
+Angular,1.6,9.67
+Node.js,0.1,7.92
+JavaScript,14.9,21.35
+Computer Vision,8.3,25.59
+AWS,3.4,14.5
+Java,13.5,21.78
+AWS,8.4,21.7
+DevOps,3.5,15.55
+Machine Learning,7.5,20.4
+AWS,2.5,13.2
+SQL,6.4,11.76
+NLP,7.6,23.11
+Django,0.1,7.92
+Node.js,11.6,21.37
+C++,7.6,17.98
+Angular,11.2,20.9
+AWS,11.8,26.59
+SQL,0.1,6.09
+AWS,1.1,11.18
+Java,5.3,12.92
+Java,1.7,9.04
+Python,1.4,8.71
+C++,7.7,18.1
+JavaScript,2.4,8.98
+React,13.3,25.16
+NLP,11.2,28.94
+SQL,7,12.3
+Java,12.7,20.92
+Flask,3.8,11.3
+Machine Learning,4.3,15.79
+React,2.5,11.55
+Machine Learning,6.9,19.54
+Data Analysis,13.7,23.83
+Java,13.6,21.89
+SQL,4.6,10.14
+Node.js,7.5,16.57
+Angular,11.8,21.61
+React,2.9,12.05
+Data Analysis,3.2,11.54
+Python,3.9,11.41
+Data Analysis,11.7,21.49
+Deep Learning,9.2,25.7
+Deep Learning,6.6,21.49
+AWS,14.2,30.05
+Machine Learning,13.4,28.9
+Java,13.4,21.67
+JavaScript,9,15.51
+Angular,6.3,15.17
+Node.js,5.9,14.7
+React,4.9,14.57
+DevOps,11.9,28.41
+AWS,7.5,20.4
+Java,10.9,18.97
+NLP,4.9,18.74
+AWS,1.7,12.05
+Node.js,6.9,15.87
+Angular,9.5,18.91
+Python,0.8,8.06
+SQL,9.3,14.37
+C++,2.8,11.93
+React,9.6,20.5
+Big Data,13.4,30.7
+NLP,11.2,28.94
+C++,9.1,19.87
+Big Data,3.6,15.71
+Big Data,13.1,30.24
+React,6.7,16.84
+Python,1.9,9.25
+DevOps,10.8,26.72
+Java,3.4,10.87
+NLP,2.1,14.2
+Machine Learning,7.8,20.83
+Computer Vision,13.9,35.17
+Django,9.2,18.56
+Deep Learning,13.8,33.16
+React,2.3,11.3
+React,4.6,14.2
+Django,7.1,16.11
+Flask,5.6,13.25
+Machine Learning,12.8,28.03
+NLP,13.7,32.99
+Machine Learning,9.5,23.28
+React,12.9,24.65
+Angular,5.7,14.47
+Machine Learning,14.9,31.06
+SQL,6,11.4
+NLP,6.5,21.33
+DevOps,12.3,29.02
+DevOps,6,19.38
+Django,6.9,15.87
+Node.js,8.9,18.21
+React,11,22.26
+Flask,5.8,13.46
+Big Data,12.2,28.87
+Big Data,6.3,19.84
+Flask,10.7,18.76
+Machine Learning,11.3,25.87
+C++,1.8,10.67
+React,0.2,8.65
+Angular,6.1,14.94
+React,11.5,22.89
+JavaScript,8.7,15.21
+Angular,5.2,13.88
+Deep Learning,7.9,23.6
+AWS,10.4,24.58
+Data Analysis,12.4,22.31
+DevOps,7.4,21.52
+React,7.6,17.98
+Flask,3.5,10.98
+C++,2.2,11.17
+JavaScript,8.8,15.31
+Computer Vision,7.3,23.88
+C++,11,22.26
+Big Data,4.2,16.63
+Java,5.7,13.36
+Computer Vision,9.3,27.3
+React,13.8,25.79
+Deep Learning,1.2,12.74
+Node.js,6.1,14.94
+Java,1.6,8.93
+Angular,7.7,16.81
+Angular,5.2,13.88
+Python,14.8,23.18
+AWS,8.5,21.84
+SQL,6,11.4
+AWS,6.8,19.39
+JavaScript,4.1,10.66
+Django,14.7,25
+Angular,7.4,16.46
+Computer Vision,13.3,34.14
+Django,11.7,21.49
+DevOps,12.3,29.02
+NLP,10.8,28.3
+Data Analysis,14.3,24.53
+Machine Learning,6.5,18.96
+Deep Learning,9.2,25.7
+Python,5.8,13.46
+C++,4.6,14.2
+Big Data,12.9,29.94
+NLP,12.8,31.54
+Flask,3.5,10.98
+Machine Learning,6.2,18.53
+NLP,4.2,17.6
+Big Data,13.6,31.01
+Computer Vision,14.9,36.88
+Computer Vision,7.1,23.54
+Django,0.6,8.5
+Deep Learning,6.7,21.65
+Django,14.6,24.88
+Node.js,5.4,14.12
+Machine Learning,11.9,26.74
+NLP,12.1,30.4
+JavaScript,7.8,14.32
+C++,6.5,16.59
+Java,11.2,19.3
+Node.js,5.2,13.88
+Machine Learning,7.9,20.98
+JavaScript,6,12.54
+Node.js,10.9,20.55
+AWS,6.4,18.82
+Big Data,5.1,18
+Flask,0.2,7.42
+Computer Vision,4.1,18.41
+Data Analysis,4.3,12.83
+Angular,2.6,10.84
+Machine Learning,3.2,14.21
+Computer Vision,6.7,22.86
+C++,6.3,16.34
+AWS,7.4,20.26
+Angular,10.7,20.32
+Computer Vision,3.1,16.7
+NLP,11,28.62
+Computer Vision,1.7,14.31
+Flask,4.8,12.38
+React,4.4,13.94
+Node.js,8.6,17.86
+AWS,7.1,19.82
+Django,8,17.16
+Django,0.4,8.27
+AWS,5.9,18.1
+Deep Learning,7.7,23.27
+C++,11.5,22.89
+Python,12.4,20.59
+JavaScript,10.7,17.19
+AWS,7.4,20.26
+Big Data,14.3,32.08
+C++,2.6,11.68
+Python,13.3,21.56
+Java,1.4,8.71
+Data Analysis,14.4,24.65
+Node.js,2.4,10.61
+Django,14.7,25
+C++,0.5,9.03
+DevOps,6.3,19.84
+Node.js,1.8,9.91
+Flask,2.6,10.01
+AWS,13.7,29.33
+Python,8.9,16.81
+Flask,0.1,7.31
+Machine Learning,1.7,12.05
+Computer Vision,13.7,34.83
+Python,9.2,17.14
+C++,3.2,12.43
+Python,6.4,14.11
+Deep Learning,4.1,17.44
+Angular,11.5,21.25
+C++,4.8,14.45
+JavaScript,12.7,19.17
+NLP,13.2,32.18
+Python,13.2,21.46
+Computer Vision,14.3,35.85
+Data Analysis,7.8,16.93
+Node.js,14.8,25.12
+Flask,6.5,14.22
+Node.js,6,14.82
+Flask,8.9,16.81
+Python,12.2,20.38
+Python,9.2,17.14
+Angular,1.4,9.44
+SQL,9.5,14.55
+Data Analysis,1.5,9.55
+DevOps,14.3,32.08
+Flask,11.8,19.94
+Node.js,12.7,22.66
+JavaScript,4.3,10.86
+Machine Learning,13.5,29.04
+React,12.3,23.9
+Computer Vision,9.6,27.82
+Computer Vision,2.9,16.36
+DevOps,5.9,19.23
+DevOps,8.2,22.75
+Python,5.2,12.82
+Django,3.2,11.54
+Java,4.4,11.95
+Deep Learning,7.7,23.27
+C++,7.3,17.6
+AWS,11.3,25.87
+Java,4.2,11.74
+C++,0,8.4
+Angular,4.8,13.42
+Python,5.7,13.36
+JavaScript,6.9,13.43
+Computer Vision,4,18.24
+C++,8.6,19.24
+Django,8.5,17.74
+SQL,7.3,12.57
+JavaScript,8.6,15.11
+Data Analysis,1.7,9.79
+NLP,10.3,27.49
+Django,2.3,10.49
+NLP,2.9,15.5
+DevOps,8,22.44
+JavaScript,1.9,8.48
+Java,13.4,21.67
+DevOps,3.6,15.71
+Big Data,9.9,25.35
+Data Analysis,5.9,14.7
+Flask,1.8,9.14
+SQL,8.8,13.92
+JavaScript,8.2,14.72
+Big Data,0.8,11.42
+Flask,4.5,12.06
+DevOps,14.1,31.77
+DevOps,3.7,15.86
+Python,2.7,10.12
+Angular,13.5,23.59
+Python,1.3,8.6
+JavaScript,8.8,15.31
+Python,14.4,22.75
+NLP,13.6,32.83
+React,13.1,24.91
+DevOps,14.1,31.77
+Machine Learning,6.3,18.67
+SQL,10.6,15.54
+SQL,8.8,13.92
+AWS,7.7,20.69
+Angular,1.8,9.91
+AWS,7.4,20.26
+SQL,8.7,13.83
+Node.js,11.2,20.9
+Computer Vision,6.4,22.34
+Python,8.8,16.7
+JavaScript,6.1,12.64
+Java,1.3,8.6
+Big Data,7.2,21.22
+SQL,6.9,12.21
+Flask,8.7,16.6
+Flask,11.2,19.3
+Java,11.7,19.84
+Deep Learning,5.2,19.22
+Deep Learning,2.2,14.36
+AWS,5.2,17.09
+NLP,11.7,29.75
+NLP,14.8,34.78
+Node.js,8.7,17.98
+Big Data,8.1,22.59
+Angular,4.7,13.3
+Django,1.3,9.32
+Angular,14.8,25.12
+SQL,2,7.8
+Computer Vision,8,25.08
+SQL,12.4,17.16
+JavaScript,0.1,6.7
+Machine Learning,3,13.92
+Computer Vision,8.1,25.25
+Django,14.7,25
+SQL,4.1,9.69
+React,0.2,8.65
+C++,6.3,16.34
+Data Analysis,10.7,20.32
+Deep Learning,4.7,18.41
+Node.js,10.2,19.73
+Flask,5.3,12.92
+Computer Vision,5.6,20.98
+Big Data,5.7,18.92
+JavaScript,6.8,13.33
+JavaScript,11.3,17.79
+DevOps,9.7,25.04
+Big Data,2.5,14.03
+Data Analysis,7.5,16.57
+Java,2.7,10.12
+Computer Vision,1.2,13.45
+Python,1.1,8.39
+Django,3.4,11.78
+Big Data,4.3,16.78
+Java,1.4,8.71
+Angular,8.8,18.1
+React,12.5,24.15
+React,0,8.4
+Django,9.8,19.27
+C++,1.4,10.16
+Node.js,12.4,22.31
+Java,6.6,14.33
+Deep Learning,11.7,29.75
+Django,13.3,23.36
+Flask,5.8,13.46
+SQL,4,9.6
+SQL,4.1,9.69
+Django,13.9,24.06
+Deep Learning,14.6,34.45
+Data Analysis,2.2,10.37
+Node.js,13.4,23.48
+NLP,4.5,18.09
+C++,7.5,17.85
+Machine Learning,0.8,10.75
+Deep Learning,9.8,26.68
+React,9.1,19.87
+Flask,12.2,20.38
+NLP,4.6,18.25
+React,7.7,18.1
+Java,8.7,16.6
+Node.js,3.5,11.89
+AWS,14.5,30.48
+Big Data,14.8,32.84
+NLP,11.9,30.08
+Java,3.2,10.66
+Computer Vision,8,25.08
+SQL,7.8,13.02
+Python,14.4,22.75
+React,12.3,23.9
+Flask,12.3,20.48
+Flask,3.8,11.3
+Flask,3,10.44
+JavaScript,12,18.48
+DevOps,3.3,15.25
+SQL,10.7,15.63
+Machine Learning,12.6,27.74
+JavaScript,5.7,12.24
+Big Data,9.2,24.28
+Big Data,8,22.44
+Data Analysis,13.5,23.59
+Django,13.4,23.48
+Python,10.4,18.43
+Machine Learning,4.8,16.51
+DevOps,2.6,14.18
+JavaScript,0.4,7
+Node.js,4,12.48
+DevOps,10.3,25.96
+Flask,10.5,18.54
+Java,7.2,14.98
+Deep Learning,11.1,28.78
+Java,3.9,11.41
+Angular,0.8,8.74
+Machine Learning,12.8,28.03
+React,10.2,21.25
+JavaScript,12.1,18.58
+React,3.4,12.68
+NLP,5.7,20.03
+SQL,11.9,16.71
+Angular,3.2,11.54
+NLP,8.8,25.06
+C++,3.1,12.31
+Data Analysis,7.3,16.34
+Python,3.4,10.87
+Machine Learning,4.5,16.08
+Computer Vision,8.2,25.42
+Deep Learning,6.7,21.65
+Data Analysis,12.8,22.78
+Flask,0.3,7.52
+C++,6,15.96
+NLP,10.1,27.16
+Java,8.4,16.27
+JavaScript,14.7,21.15
+JavaScript,1.3,7.89
+React,1.4,10.16
+Data Analysis,11.7,21.49
+Node.js,14.6,24.88
+Computer Vision,13.5,34.48
+Computer Vision,4.9,19.78
+Computer Vision,13.5,34.48
+Computer Vision,1.1,13.28
+Python,1.4,8.71
+NLP,9.6,26.35
+Python,10.8,18.86
+React,12.6,24.28
+React,10.5,21.63
